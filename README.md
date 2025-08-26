@@ -1,6 +1,8 @@
 # 🚗 Car Price Predictor
 An interactive ML-powered web app that predicts the fair market value of a used car based on details like brand, model, year, engine size, fuel type, transmission, condition, and mileage. Built with Python, Streamlit, and XGBoost, it helps buyers and sellers make smarter decisions instantly.
 
+Live Demo : [Car Price Predictor](https://carpricepredictor1.streamlit.app/)
+
 # ✨ Features
 
 🔮 Accurate car price predictions
